@@ -52,7 +52,7 @@ and run main_HW{number}.
  
 ### HW 6 Resolution
 ![image](https://user-images.githubusercontent.com/93210989/190901027-760cd9f7-ab1d-47a2-9e85-9e7fbcca0e23.png)
-<img src="./DIP/HW5/result.png" width="500" >
+<img src="./DIP/HW6/result.png" width="500" >
 
 ### HW 10 Otsu's threshold method
 ![image](https://user-images.githubusercontent.com/93210989/190901076-9653d4ad-776f-4dbb-af2b-4b55a9924ac4.png)
