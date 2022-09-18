@@ -23,8 +23,12 @@ Root/
 ```
 NTNU CSIE Image Process ( CSU0041)
 ---
-If you want to demo this program, please insure you have matlab and open to directory DIP/
-and run main_HW{number}.
+- If you want to demo this program, please insure you have matlab and open to directory DIP/
+and run main_HW{number}. 
+- If you want to change demo picture, just put it into DIP directory and adjust the filename in `Config.m`.
+  Then you can execute the code and recieve new result.
+- If you want to save the figure, then assign `Save=1` in `Config.m`. (Not to hard, It'll save at `HW{number}` directory)
+
 
 <!-- <img src="./DIP/HW1/result_gray.png" width="500" > -->
 
